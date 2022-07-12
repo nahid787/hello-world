@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h2>HTML Forms changed in 1:58</h2>
+<h2>HTML Forms</h2>
 
 <form action="/action_page.php">
   <label for="fname">First name:</label><br>
